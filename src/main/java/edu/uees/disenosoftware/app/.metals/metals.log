@@ -1,0 +1,88 @@
+2026.09.06 18:53:44 INFO  Started: Metals version 1.6.8 in folders 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app' for client Visual Studio Code 1.136.1.
+2026.09.06 18:53:44 INFO  Memory monitor started
+2026.09.06 18:53:52 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.06 18:53:54 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:53:56 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+sept 06, 2026 6:53:56 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2026.09.06 18:53:56 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:53:56 WARN  no build tool detected in workspace 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.06 18:53:56 WARN  Build server is not auto-connectable.
+2026.09.06 18:53:56 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java
+2026.09.06 18:53:57 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/app/Main.java. Output:
+
+2026.09.06 18:53:57 INFO  time: code lens generation in 1.48s
+sept 06, 2026 6:53:59 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2026.09.06 18:53:59 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:54:01 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+sept 06, 2026 6:54:01 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 10
+2026.09.06 18:54:01 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:54:05 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+sept 06, 2026 6:54:07 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 15
+2026.09.06 18:54:07 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:54:07 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:54:14 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java
+2026.09.06 18:54:14 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:54:16 INFO  Shutting down server
+2026.09.06 18:54:16 INFO  Memory monitor stopped
+2026.09.06 18:54:16 INFO  shutting down Metals
+2026.09.06 18:54:16 INFO  Exiting server
+2026.09.06 18:59:11 INFO  Started: Metals version 1.6.8 in folders 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app' for client Visual Studio Code 1.136.1.
+2026.09.06 18:59:11 INFO  Memory monitor started
+2026.09.06 18:59:15 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.06 18:59:18 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:59:21 WARN  no build tool detected in workspace 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.06 18:59:21 WARN  Build server is not auto-connectable.
+2026.09.06 18:59:21 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java
+2026.09.06 18:59:21 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:59:22 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/app/Main.java. Output:
+
+2026.09.06 18:59:22 INFO  time: code lens generation in 1.05s
+2026.09.06 18:59:23 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:59:24 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:59:28 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:59:29 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+sept 06, 2026 6:59:30 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+2026.09.06 18:59:30 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:59:31 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:59:37 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java
+2026.09.06 18:59:37 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 18:59:39 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 19:04:30 INFO  Shutting down server
+2026.09.06 19:04:30 INFO  Memory monitor stopped
+2026.09.06 19:04:30 INFO  shutting down Metals
+2026.09.06 19:04:30 INFO  Exiting server
+2026.09.06 19:06:17 INFO  Started: Metals version 1.6.8 in folders 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app' for client Visual Studio Code 1.136.1.
+2026.09.06 19:06:17 INFO  Memory monitor started
+2026.09.06 19:06:21 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.06 19:06:24 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+sept 06, 2026 7:06:26 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2026.09.06 19:06:27 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 19:06:27 WARN  no build tool detected in workspace 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.06 19:06:27 WARN  Build server is not auto-connectable.
+2026.09.06 19:06:27 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java
+2026.09.06 19:06:29 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/app/Main.java. Output:
+
+2026.09.06 19:06:29 INFO  time: code lens generation in 1.39s
+sept 06, 2026 7:06:30 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7
+2026.09.06 19:06:30 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 19:06:30 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 19:06:32 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 19:06:35 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 19:06:37 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+sept 06, 2026 7:06:39 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 14
+2026.09.06 19:06:40 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 19:06:40 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 19:06:42 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java
+2026.09.06 19:06:42 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\app\Main.java. Using fallback presentation compiler.
+2026.09.06 19:06:50 INFO  Shutting down server
+2026.09.06 19:06:50 INFO  Memory monitor stopped
+2026.09.06 19:06:50 INFO  shutting down Metals
+2026.09.06 19:06:50 INFO  Exiting server

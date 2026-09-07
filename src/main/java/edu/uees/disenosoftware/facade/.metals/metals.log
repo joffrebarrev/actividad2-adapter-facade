@@ -1,0 +1,162 @@
+2026.09.06 18:46:57 INFO  Started: Metals version 1.6.8 in folders 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade' for client Visual Studio Code 1.136.1.
+2026.09.06 18:46:57 INFO  time: initialize in 0.21s
+2026.09.06 18:46:57 INFO  Memory monitor started
+2026.09.06 18:47:04 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.06 18:47:06 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioReservas.java. Using fallback presentation compiler.
+sept 06, 2026 6:47:07 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+sept 06, 2026 6:47:07 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+sept 06, 2026 6:47:07 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3
+2026.09.06 18:47:09 WARN  no build tool detected in workspace 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.06 18:47:09 WARN  Build server is not auto-connectable.
+2026.09.06 18:47:09 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java
+2026.09.06 18:47:09 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioReservas.java
+2026.09.06 18:47:09 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java. Using fallback presentation compiler.
+2026.09.06 18:47:10 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/ServicioCalendario.java. Output:
+
+2026.09.06 18:47:11 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/ServicioReservas.java. Output:
+
+2026.09.06 18:47:11 INFO  time: code lens generation in 2.48s
+2026.09.06 18:47:13 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java. Using fallback presentation compiler.
+2026.09.06 18:47:14 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java. Using fallback presentation compiler.
+2026.09.06 18:47:16 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java. Using fallback presentation compiler.
+sept 06, 2026 6:47:18 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 16
+2026.09.06 18:47:19 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java. Using fallback presentation compiler.
+2026.09.06 18:47:22 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/ServicioCalendario.java. Output:
+
+2026.09.06 18:47:25 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java
+2026.09.06 18:47:29 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java. Using fallback presentation compiler.
+sept 06, 2026 6:47:31 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 27
+2026.09.06 18:47:31 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java. Using fallback presentation compiler.
+2026.09.06 18:47:31 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\ServicioCalendario.java. Using fallback presentation compiler.
+2026.09.06 18:47:50 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java
+2026.09.06 18:47:50 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/NotificadorConsola.java. Output:
+
+2026.09.06 18:47:50 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:51 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:51 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+sept 06, 2026 6:47:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 38
+2026.09.06 18:47:51 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:52 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+sept 06, 2026 6:47:52 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 39
+2026.09.06 18:47:51 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:52 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/NotificadorConsola.java. Output:
+
+2026.09.06 18:47:57 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:57 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:58 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:58 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:58 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:59 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/NotificadorConsola.java. Output:
+
+2026.09.06 18:47:59 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:58 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:47:59 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+2026.09.06 18:48:56 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java
+2026.09.06 18:48:56 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:48:56 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/Notificador.java. Output:
+
+2026.09.06 18:48:57 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:48:57 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:48:57 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:48:57 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:48:57 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:48:58 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/Notificador.java. Output:
+
+2026.09.06 18:49:01 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+sept 06, 2026 6:49:01 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 77
+2026.09.06 18:49:01 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:49:02 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:49:02 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:49:02 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:49:03 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/Notificador.java. Output:
+
+2026.09.06 18:49:03 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:49:02 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:49:23 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java
+2026.09.06 18:49:23 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:50:05 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java
+2026.09.06 18:50:06 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/TutoriasFacade.java. Output:
+
+2026.09.06 18:50:06 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:06 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:06 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+sept 06, 2026 6:50:06 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 97
+2026.09.06 18:50:06 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:06 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:06 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:07 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/TutoriasFacade.java. Output:
+
+2026.09.06 18:50:10 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:10 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:11 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:11 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:11 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:11 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/TutoriasFacade.java. Output:
+
+2026.09.06 18:50:11 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:11 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:50:16 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java
+2026.09.06 18:50:16 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java. Using fallback presentation compiler.
+2026.09.06 18:51:38 INFO  Shutting down server
+2026.09.06 18:51:38 INFO  Memory monitor stopped
+2026.09.06 18:51:38 INFO  shutting down Metals
+2026.09.06 18:51:38 INFO  Exiting server
+2026.09.06 18:57:06 INFO  Started: Metals version 1.6.8 in folders 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade' for client Visual Studio Code 1.136.1.
+2026.09.06 18:57:06 INFO  time: initialize in 0.13s
+2026.09.06 18:57:06 INFO  Memory monitor started
+2026.09.06 18:57:13 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.09.06 18:57:15 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java. Using fallback presentation compiler.
+sept 06, 2026 6:57:17 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+sept 06, 2026 6:57:17 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3
+sept 06, 2026 6:57:17 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2026.09.06 18:57:17 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:57:17 WARN  no build tool detected in workspace 'D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.09.06 18:57:17 WARN  Build server is not auto-connectable.
+2026.09.06 18:57:18 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\TutoriasFacade.java
+2026.09.06 18:57:18 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java
+2026.09.06 18:57:18 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java
+2026.09.06 18:57:18 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/NotificadorConsola.java. Output:
+
+2026.09.06 18:57:19 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/Notificador.java. Output:
+
+2026.09.06 18:57:19 INFO  time: code lens generation in 1.4s
+sept 06, 2026 6:57:20 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 7
+2026.09.06 18:57:20 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:57:20 WARN  Running javac-semanticdb failed for file:///D:/personal%20joffre%20barre/UESS%20-%20INGENIERIA%20COMPUTACION/Diseño%20de%20Software/Sistema_gestion_tutorias/Semana4/Act2-adapter-facade/Act2-adapter-facade/src/main/java/edu/uees/disenosoftware/facade/TutoriasFacade.java. Output:
+
+2026.09.06 18:57:20 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+sept 06, 2026 6:57:21 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 11
+2026.09.06 18:57:20 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+sept 06, 2026 6:57:23 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 13
+2026.09.06 18:57:23 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:57:25 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+sept 06, 2026 6:57:25 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 16
+2026.09.06 18:57:25 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+sept 06, 2026 6:57:29 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 20
+2026.09.06 18:57:29 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+sept 06, 2026 6:57:31 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 22
+2026.09.06 18:57:31 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:57:31 INFO  no build target found for D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\Notificador.java. Using fallback presentation compiler.
+2026.09.06 18:58:51 WARN  no build target for: D:\personal joffre barre\UESS - INGENIERIA COMPUTACION\Diseño de Software\Sistema_gestion_tutorias\Semana4\Act2-adapter-facade\Act2-adapter-facade\src\main\java\edu\uees\disenosoftware\facade\NotificadorConsola.java
+2026.09.06 18:58:51 INFO  Shutting down server
+2026.09.06 18:58:51 INFO  Memory monitor stopped
+2026.09.06 18:58:51 INFO  shutting down Metals
+2026.09.06 18:58:51 INFO  Exiting server
